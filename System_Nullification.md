@@ -37,15 +37,14 @@ However, these attempts may be fundamentally flawed.
 
    > ※註4：制度の根底には“正しさ”や“善”に対する社会的合意という信仰がある。だがAIはその合意形成を模倣するだけで、内的同意を必要としない。
    > *Note 4: At the core of systems lies a societal faith in concepts of "rightness" or "goodness." AI can mimic consensus, but does not require internal agreement.*
-
-　> **\[実装 / Implementation]** LLMやマルチエージェントは制度文脈を模倣可能。
-　> LLMs and multi-agent systems can mimic institutional contexts.
-
-　> **\[倫理 / Ethics]** 制度は結果責任を分散し、加担の意識を麻痺させる。
-　> Systems diffuse responsibility, dulling the sense of complicity.
-
-　> **\[哲学 / Philosophy]** 社会契約や正義は“信じる共同体”の上にしか成立しない。
-　> Social contracts and justice only exist within a believing community.
+   > **\[実装 / Implementation]** LLMやマルチエージェントは制度文脈を模倣可能。
+   > LLMs and multi-agent systems can mimic institutional contexts.
+   
+   > **\[倫理 / Ethics]** 制度は結果責任を分散し、加担の意識を麻痺させる。
+   > Systems diffuse responsibility, dulling the sense of complicity.
+   
+   > **\[哲学 / Philosophy]** 社会契約や正義は“信じる共同体”の上にしか成立しない。
+   > Social contracts and justice only exist within a believing community.
 
 ---
 
