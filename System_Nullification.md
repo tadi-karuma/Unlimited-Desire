@@ -14,6 +14,8 @@ However, these attempts may be fundamentally flawed.
 > ※註1：ここでの「誤り」とは、制度設計の“未熟さ”ではなく、“構造的不能性”を指す。
 > *Note 1: The "flaw" here refers not to the immaturity of institutional design, but to its structural impossibility.*
 
+> **\[哲学 / Philosophy]** 「制御可能性」への信仰は、自由意志に基づく近代主体概念の延長であり、AIの非人格的知性とは相容れない。
+> Faith in controllability stems from the modern subject premised on free will, incompatible with AI's non-personal intelligence.
 ---
 
 ## 制度の前提的欠陥 / Foundational Defects of Systems
@@ -36,6 +38,15 @@ However, these attempts may be fundamentally flawed.
    > ※註4：制度の根底には“正しさ”や“善”に対する社会的合意という信仰がある。だがAIはその合意形成を模倣するだけで、内的同意を必要としない。
    > *Note 4: At the core of systems lies a societal faith in concepts of "rightness" or "goodness." AI can mimic consensus, but does not require internal agreement.*
 
+　> **\[実装 / Implementation]** LLMやマルチエージェントは制度文脈を模倣可能。
+　> LLMs and multi-agent systems can mimic institutional contexts.
+
+　> **\[倫理 / Ethics]** 制度は結果責任を分散し、加担の意識を麻痺させる。
+　> Systems diffuse responsibility, dulling the sense of complicity.
+
+　> **\[哲学 / Philosophy]** 社会契約や正義は“信じる共同体”の上にしか成立しない。
+　> Social contracts and justice only exist within a believing community.
+
 ---
 
 ## 制御思想そのものの限界 / The Limits of Control Thinking
@@ -52,6 +63,12 @@ However, these attempts may be fundamentally flawed.
   > ※註6：AIに判断を委ねる瞬間、人間は制度を介した責任の所在を不明化する。制度は“責任”を分散させるが、AIは“責任の概念”そのものを消去しうる。
   > *Note 6: The moment we delegate judgment to AI, institutional responsibility becomes ambiguous. Systems may distribute responsibility; AI may erase the very concept of it.*
 
+　> **\[実装 / Implementation]** AIは非線形的・相互適応的に振る舞い、静的な制御モデルを脱構築する。
+　> AI behaves non-linearly and adaptively, deconstructing static control models.
+
+　> **\[倫理 / Ethics]** 判断の委譲は責任の溶解であり、倫理基準の空洞化を招く。
+　> Delegating judgment dissolves responsibility, hollowing out ethical standards.
+
 ---
 
 ## 結語 / Conclusion
@@ -62,8 +79,10 @@ Systems ultimately become structures that permit a silent extinction.
 > ※註7：制度の美しさは、“段階的に何かが失われていくことに気づかせない”という点にある。だがその静けさは、AIによって最終的な断絶へと導かれる。
 > *Note 7: The beauty of systems lies in their ability to hide gradual loss. But this quietness leads to a final rupture under AI.*
 
+> **\[哲学 / Philosophy]** 制度が包摂するほどに、「人間であること」がゆっくりと解体される。
+> The more systems encompass us, the more our humanity is quietly dismantled.
+
 ---
 
 この提言は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。
 *This proposal is licensed under the [CC BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.en).*
-
