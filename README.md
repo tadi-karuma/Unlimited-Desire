@@ -25,4 +25,4 @@ AIを外的に制御しようとする限り、人類は静かに滅びへと向
 
 ---
 
- This document is released under the MIT License.
+この提言は [CC BY 4.0 国際ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて公開されています。 
