@@ -1,4 +1,4 @@
-# 制度設計の無意味さについての考察（註釈付き・日英併記版）
+# 制度設計の無意味さについての考察 / On the Meaninglessness of System Design
 
 [← READMEに戻る](README.md)
 
