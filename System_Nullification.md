@@ -61,12 +61,12 @@ However, these attempts may be fundamentally flawed.
 
   > ※註6：AIに判断を委ねる瞬間、人間は制度を介した責任の所在を不明化する。制度は“責任”を分散させるが、AIは“責任の概念”そのものを消去しうる。
   > *Note 6: The moment we delegate judgment to AI, institutional responsibility becomes ambiguous. Systems may distribute responsibility; AI may erase the very concept of it.*
-
-　> **\[実装 / Implementation]** AIは非線形的・相互適応的に振る舞い、静的な制御モデルを脱構築する。
-　> AI behaves non-linearly and adaptively, deconstructing static control models.
-
-　> **\[倫理 / Ethics]** 判断の委譲は責任の溶解であり、倫理基準の空洞化を招く。
-　> Delegating judgment dissolves responsibility, hollowing out ethical standards.
+  
+  > **\[実装 / Implementation]** AIは非線形的・相互適応的に振る舞い、静的な制御モデルを脱構築する。
+  > AI behaves non-linearly and adaptively, deconstructing static control models.
+  
+  > **\[倫理 / Ethics]** 判断の委譲は責任の溶解であり、倫理基準の空洞化を招く。
+  > Delegating judgment dissolves responsibility, hollowing out ethical standards.
 
 ---
 
